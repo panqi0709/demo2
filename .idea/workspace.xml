@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0821dda-8c7e-49d2-b8a7-a7c1653e88f1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/spring-redis/target/" />
+    <ignored path="$PROJECT_DIR$/dobbo-producter/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/springbootaop/target/" />
+    <ignored path="$PROJECT_DIR$/springtest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mqWorkSpace" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/interceptor/MyInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/installation/Repo/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/HandlerExecutionChain.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1008">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/controller/TestAopController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Configuration</find>
+      <find>insertOne</find>
+      <find>spring-boot-starter-data-redis</find>
+      <find>dbIndex</find>
+      <find>redis</find>
+      <find>StringRedisTemplate</find>
+      <find>spirng.redis.springredis.aspect.RedisCache</find>
+      <find>RedisCache</find>
+      <find>apiFilter</find>
+      <find>securityRequestFilter</find>
+      <find>MyFilter</find>
+      <find>myFilter</find>
+      <find>MyFilter.doFilter filterChain.doFilter 前</find>
+      <find>进入拦截器afterCompletion</find>
+      <find>记录访问接口</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring-redis" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/mq/ConsumerConfig.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/mq/ProductConfig.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/entity/Student.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/entity/Teacher.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/entity/A.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/entity/B.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/entity/C.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/entity/D.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/entity/E.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/service/TeacherService.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/resources/mybatis/TeacherMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/mapper/TeacherMapper.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/resources/logback-spring.xml.fxml" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/schedu/ScheduledConfig.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/filter/MyFilger.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/interceptor/MyInterceptor.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/service/impl/TeacherServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/controller/TeacherController.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/aspect/LogString.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/aspect/AspectLog.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/spring-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/service/impl/StudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/aspect/RedisCache.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/aspect/RedisAspectLong.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/service/TestAopService.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/service/impl/TestAopServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/SpringRedisApplication.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/controller/TestAopController.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/aspect/AspectTestAop.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/filter/MyFilter.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/service/TestAopService.java" />
+        <option value="$PROJECT_DIR$/springbootaop/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/controller/OtherController.java" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/filter/FilterResitrationBean.java" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/SpringbootaopApplication.java" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/aspect/AspectTestAop.java" />
+        <option value="$PROJECT_DIR$/springtest/src/test/java/com/atpanqi/springtest/SpringtestApplicationTests.java" />
+        <option value="$PROJECT_DIR$/springtest/src/main/java/com/atpanqi/springtest/entity/Student.java" />
+        <option value="$PROJECT_DIR$/springtest/src/main/java/com/atpanqi/springtest/entity/thread/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/springtest/src/main/java/com/atpanqi/springtest/entity/thread/MyThread.java" />
+        <option value="$PROJECT_DIR$/springtest/src/main/java/com/atpanqi/springtest/Test.java" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/config/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/service/impl/TestAopServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/filter/FilterResitration.java" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/controller/TestAopController.java" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/interceptor/MyInterceptor.java" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/filter/MyFilter.java" />
+        <option value="$PROJECT_DIR$/spring-redis/src/main/resources/logback-spring.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/installation/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\JavaWorkSpace\settings(1).xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="603" />
+    <option name="y" value="42" />
+    <option name="width" value="1890" />
+    <option name="height" value="975" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mqWorkSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ideaWorkSpace\mqWorkSpace\spring-redis\src\main\resources\mybatis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ideaWorkSpace\mqWorkSpace\spring-redis\src\main\resources\mybatis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atpanqi.springbootaop.aspect" />
+      <recent name="com.atpanqi.springbootaop.filter" />
+      <recent name="com.atpanqi.springbootaop.service.impl" />
+      <recent name="com.atpanqi.springbootaop.service" />
+      <recent name="com.atpanqi.springbootaop.controller" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="spirng.redis.springredis.entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.18791391" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringRedisApplication">
+    <configuration name="ScheduledConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spirng.redis.springredis.schedu.ScheduledConfig" />
+      <module name="spring-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spirng.redis.springredis.schedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atpanqi.springtest.Test" />
+      <module name="springtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atpanqi.springtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringRedisApplicationTests.changeDb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spirng.redis.springredis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spirng.redis.springredis" />
+      <option name="MAIN_CLASS_NAME" value="spirng.redis.springredis.SpringRedisApplicationTests" />
+      <option name="METHOD_NAME" value="changeDb" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringtestApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atpanqi.springtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atpanqi.springtest" />
+      <option name="MAIN_CLASS_NAME" value="com.atpanqi.springtest.SpringtestApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="spring.redis.dubboconsumer.DubboConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboProducterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dobbo-producter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="spring.redis.springredis.DubboProducterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="spirng.redis.springredis.SpringRedisApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootaopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springbootaop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atpanqi.springbootaop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atpanqi.springbootaop.SpringbootaopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringtestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springtest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atpanqi.springtest.SpringtestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringbootaopApplication" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.SpringtestApplicationTests.contextLoads" />
+        <item itemvalue="Application.ScheduledConfig" />
+        <item itemvalue="JUnit.SpringRedisApplicationTests.changeDb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0821dda-8c7e-49d2-b8a7-a7c1653e88f1" name="Default Changelist" comment="" />
+      <created>1595483955453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595483955453</updated>
+      <workItem from="1595483957186" duration="98000" />
+      <workItem from="1595484067817" duration="475000" />
+      <workItem from="1595553839076" duration="13188000" />
+      <workItem from="1595577737648" duration="1435000" />
+      <workItem from="1595812070338" duration="9287000" />
+      <workItem from="1595906754296" duration="10442000" />
+      <workItem from="1595987114825" duration="9078000" />
+      <workItem from="1596070969830" duration="4432000" />
+      <workItem from="1596181403683" duration="2623000" />
+      <workItem from="1596373661191" duration="1561000" />
+      <workItem from="1596416431764" duration="1450000" />
+      <workItem from="1596506428719" duration="52000" />
+      <workItem from="1596693451805" duration="1693000" />
+      <workItem from="1597111909214" duration="445000" />
+      <workItem from="1597112530687" duration="2055000" />
+      <workItem from="1597135162294" duration="211000" />
+      <workItem from="1597632117486" duration="2199000" />
+      <workItem from="1598582066827" duration="1581000" />
+      <workItem from="1599026612762" duration="1315000" />
+      <workItem from="1599124052180" duration="6400000" />
+      <workItem from="1599182177332" duration="2159000" />
+      <workItem from="1599204004596" duration="5643000" />
+      <workItem from="1599635474725" duration="2558000" />
+      <workItem from="1599698958319" duration="238000" />
+      <workItem from="1599969627675" duration="3081000" />
+      <workItem from="1600045516214" duration="562000" />
+      <workItem from="1602638069593" duration="3434000" />
+      <workItem from="1602724360181" duration="242000" />
+      <workItem from="1603352158359" duration="228000" />
+      <workItem from="1603433071100" duration="773000" />
+      <workItem from="1605490646260" duration="2484000" />
+      <workItem from="1605604556641" duration="3300000" />
+      <workItem from="1605610981332" duration="6994000" />
+      <workItem from="1605663292496" duration="2854000" />
+      <workItem from="1605667360183" duration="278000" />
+      <workItem from="1605668992268" duration="340000" />
+      <workItem from="1605678897454" duration="4443000" />
+      <workItem from="1605749677851" duration="3710000" />
+      <workItem from="1605834774814" duration="516000" />
+      <workItem from="1606113871381" duration="1513000" />
+      <workItem from="1606180615123" duration="1637000" />
+      <workItem from="1606441776256" duration="1237000" />
+      <workItem from="1606715871686" duration="269000" />
+      <workItem from="1606716766467" duration="5000" />
+      <workItem from="1606717466974" duration="826000" />
+      <workItem from="1606812764227" duration="2374000" />
+      <workItem from="1606872369017" duration="142000" />
+      <workItem from="1606961737135" duration="1943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringRedisApplicationTests_changeDb - 2020.07.29 at 10h 17m 01s.xml">
+      <configuration name="SpringRedisApplicationTests.changeDb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringRedisApplicationTests_changeDb - 2020.07.29 at 10h 18m 46s.xml">
+      <configuration name="SpringRedisApplicationTests.changeDb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringRedisApplicationTests_changeDb - 2020.07.29 at 10h 20m 08s.xml">
+      <configuration name="SpringRedisApplicationTests.changeDb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringRedisApplicationTests_changeDb - 2020.07.29 at 10h 42m 02s.xml">
+      <configuration name="SpringRedisApplicationTests.changeDb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringRedisApplicationTests_changeDb - 2020.07.29 at 10h 43m 05s.xml">
+      <configuration name="SpringRedisApplicationTests.changeDb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringRedisApplicationTests_changeDb - 2020.07.29 at 10h 46m 02s.xml">
+      <configuration name="SpringRedisApplicationTests.changeDb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringRedisApplicationTests_changeDb - 2020.07.29 at 10h 47m 02s.xml">
+      <configuration name="SpringRedisApplicationTests.changeDb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringRedisApplicationTests_changeDb - 2020.07.29 at 10h 49m 56s.xml">
+      <configuration name="SpringRedisApplicationTests.changeDb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringRedisApplicationTests_changeDb - 2020.07.29 at 10h 50m 52s.xml">
+      <configuration name="SpringRedisApplicationTests.changeDb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringtestApplicationTests_contextLoads - 2020.11.20 at 09h 19m 37s.xml">
+      <configuration name="SpringtestApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="123803000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49659863" visible="true" weight="0.28236246" />
+      <window_info id="Structure" order="1" sideWeight="0.50340134" side_tool="true" weight="0.30177993" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5025381" side_tool="true" weight="0.30177993" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969034" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919093" weight="0.29562044" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3132969" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008091" side_tool="true" weight="0.48087433" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32969034" />
+      <window_info anchor="bottom" id="CheckStyle" order="16" weight="0.32969034" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" weight="0.37704918" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32928804" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32928804" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="RestServices" order="9" />
+      <window_info anchor="right" id="Jms Messenger" order="10" weight="0.32928804" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49659863" visible="true" weight="0.28236246" />
+      <window_info id="Structure" order="1" sideWeight="0.50340134" side_tool="true" weight="0.30177993" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5025381" side_tool="true" weight="0.30177993" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="0" visible="true" weight="0.16211294" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32969034" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49919093" weight="0.29508197" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.19489981" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5008091" side_tool="true" weight="0.48087433" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Problems" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32969034" />
+      <window_info anchor="bottom" id="CheckStyle" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32928804" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32928804" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="RestServices" order="9" />
+      <window_info anchor="right" id="Jms Messenger" order="10" weight="0.32928804" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/installation/Repo/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar!/org/springframework/cache/interceptor/AbstractCacheResolver.class</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/controller/TestAopController.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/service/TeacherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/service/StudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/service/impl/TeacherServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/test/java/spirng/redis/springredis/SpringRedisApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/installation/Repo/org/springframework/spring-core/5.2.7.RELEASE/spring-core-5.2.7.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/controller/TeacherController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/service/TestAopService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/aspect/LogString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/controller/TestRedisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/installation/Repo/org/apache/tomcat/embed/tomcat-embed-core/9.0.36/tomcat-embed-core-9.0.36.jar!/javax/servlet/Filter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/installation/Repo/org/apache/tomcat/embed/tomcat-embed-core/9.0.36/tomcat-embed-core-9.0.36.jar!/org/apache/catalina/core/ApplicationFilterConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="126" column="29" lean-forward="true" selection-start-line="126" selection-start-column="29" selection-end-line="126" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/controller/TestAopController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/aspect/AspectLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/aspect/AspectTestAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/SpringRedisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/service/TestAopService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/service/impl/TestAopServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="82" column="19" selection-start-line="20" selection-start-column="4" selection-end-line="82" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/installation/Repo/org/apache/tomcat/embed/tomcat-embed-core/9.0.39/tomcat-embed-core-9.0.39.jar!/javax/servlet/annotation/WebFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/installation/Repo/org/apache/tomcat/embed/tomcat-embed-core/9.0.39/tomcat-embed-core-9.0.39.jar!/javax/servlet/Filter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/filter/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/installation/Repo/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/HandlerInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/installation/Repo/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/AsyncHandlerInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/installation/Repo/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-774">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/aspect/AspectTestAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/installation/Repo/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springtest/src/test/java/com/atpanqi/springtest/SpringtestApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springtest/src/main/java/com/atpanqi/springtest/entity/thread/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springtest/src/main/java/com/atpanqi/springtest/entity/thread/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springtest/src/main/java/com/atpanqi/springtest/SpringtestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springtest/src/main/java/com/atpanqi/springtest/Test.java" />
+    <entry file="file://$PROJECT_DIR$/springtest/src/main/java/com/atpanqi/springtest/entity/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/controller/OtherController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/SpringbootaopApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/service/impl/TestAopServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/filter/BodyReaderHttpServletRequestWrapper.java" />
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/config/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/filter/FilterResitration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/filter/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/installation/Repo/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/HandlerExecutionChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/controller/TestAopController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/service/impl/StudentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/aspect/RedisCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/config/MqConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/aspect/RedisAspectLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/java/spirng/redis/springredis/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="76" column="35" selection-start-line="76" selection-start-column="35" selection-end-line="76" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/interceptor/MyInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springtest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

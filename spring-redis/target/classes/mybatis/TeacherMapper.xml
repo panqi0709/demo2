@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="spirng.redis.springredis.mapper.TeacherMapper">
+
+    <insert id="save" parameterType="spirng.redis.springredis.entity.Teacher">
+        insert into t_teacher (teacher_name,age,time) values (#{teacherName},#{age},now())
+    </insert>
+
+    <select id="getTeacher" parameterType="int" resultType="spirng.redis.springredis.entity.Teacher">
+        select teacher_name teacherName,age from t_teacher where id = #{id}
+    </select>
+</mapper>

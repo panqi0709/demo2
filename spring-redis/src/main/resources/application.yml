@@ -1,0 +1,29 @@
+spring:
+  datasource:
+    username: panqi
+    password: 123456
+    url: jdbc:mysql://192.168.33.132:3306/mybatis-test?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&allowMultiQueries=true&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+  redis:
+    host: 192.168.33.132
+    password:
+    database: 1
+
+  activemq:
+    broker-url: tcp://www.qi132.com:61616
+    in-memory: false #true 表示使用内置的MQ，false则连接服务器
+    user: admin
+    password: admin
+  jms:
+    pub-sub-domain: false #默认false 消息 queue    true 阅读topic
+
+myQueue: myFistQueue
+logging:
+  level:
+    spirng.redis.springredis.mapper: debug
+server:
+  port: 8890
+mybatis:
+  mapper-locations: classpath:mybatis/*.xml
+
