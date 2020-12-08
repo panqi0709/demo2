@@ -17,6 +17,6 @@ public class TestAopServiceImpl implements TestAopService {
   @Override
   public String getString(String aa) {
     log.info("##############################方法中执行getString aa = {}", aa);
-    return aa;
+    return "原始版本 = "+ aa;
   }
 }

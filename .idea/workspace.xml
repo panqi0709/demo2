@@ -2,60 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0821dda-8c7e-49d2-b8a7-a7c1653e88f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/logback-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/mybatis/StudentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/mybatis/TeacherMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/SpringRedisApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/aspect/AspectLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/aspect/AspectTestAop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/aspect/LogString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/aspect/RedisAspectLong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/aspect/RedisCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/config/MqConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/controller/StudentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/controller/TeacherController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/controller/TestAopController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/controller/TestRedisController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/entity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/entity/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/filter/MyFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/mapper/StudentMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/mapper/TeacherMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/mq/ConsumerConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/mq/ProductConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/schedu/ScheduledConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/service/StudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/service/TeacherService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/service/TestAopService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/service/impl/StudentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/service/impl/TeacherServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/classes/spirng/redis/springredis/service/impl/TestAopServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-redis/target/test-classes/spirng/redis/springredis/SpringRedisApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/META-INF/springbootaop.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/com/atpanqi/springbootaop/SpringbootaopApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/com/atpanqi/springbootaop/aspect/AspectTestAop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/com/atpanqi/springbootaop/config/WebMvcConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/com/atpanqi/springbootaop/controller/OtherController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/com/atpanqi/springbootaop/controller/TestAopController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/com/atpanqi/springbootaop/filter/FilterResitration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/com/atpanqi/springbootaop/filter/MyFilter$MyHttpServletRequestWrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/com/atpanqi/springbootaop/filter/MyFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/com/atpanqi/springbootaop/interceptor/MyInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/com/atpanqi/springbootaop/service/TestAopService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/classes/com/atpanqi/springbootaop/service/impl/TestAopServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootaop/target/test-classes/com/atpanqi/springbootaop/SpringbootaopApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/target/classes/META-INF/springtest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/target/classes/com/atpanqi/springtest/SpringtestApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/target/classes/com/atpanqi/springtest/entity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/target/classes/com/atpanqi/springtest/entity/thread/MyRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/target/classes/com/atpanqi/springtest/entity/thread/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtest/target/test-classes/com/atpanqi/springtest/SpringtestApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/service/impl/TestAopServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/service/impl/TestAopServiceImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring-redis/target/" />
@@ -97,11 +45,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/controller/TestAopController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            <state relative-caret-position="123">
+              <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/service/impl/TestAopServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-redis/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -199,12 +168,12 @@
         <option value="$PROJECT_DIR$/springtest/src/main/java/com/atpanqi/springtest/entity/thread/MyThread.java" />
         <option value="$PROJECT_DIR$/springtest/src/main/java/com/atpanqi/springtest/Test.java" />
         <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/config/WebMvcConfig.java" />
-        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/service/impl/TestAopServiceImpl.java" />
         <option value="$PROJECT_DIR$/springbootaop/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/filter/FilterResitration.java" />
         <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/interceptor/MyInterceptor.java" />
         <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/filter/MyFilter.java" />
         <option value="$PROJECT_DIR$/spring-redis/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/service/impl/TestAopServiceImpl.java" />
         <option value="$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/controller/TestAopController.java" />
       </list>
     </option>
@@ -219,7 +188,17 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-redis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -238,7 +217,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springredis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -296,7 +311,7 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.18791391" />
+    <option name="contentProportion" value="0.272351" />
   </component>
   <component name="RunManager" selected="Spring Boot.SpringRedisApplication">
     <configuration name="ScheduledConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -469,7 +484,7 @@
       <workItem from="1606812764227" duration="2374000" />
       <workItem from="1606872369017" duration="142000" />
       <workItem from="1606961737135" duration="1943000" />
-      <workItem from="1607394229489" duration="323000" />
+      <workItem from="1607394229489" duration="1534000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1607394364045</created>
@@ -478,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607394364045</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="222">
+      <created>1607394578568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607394578569</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -514,13 +536,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124126000" />
+    <option name="totallyTimeSpent" value="125337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49659863" visible="true" weight="0.28236246" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49659863" visible="true" weight="0.28236246" />
       <window_info id="Structure" order="1" sideWeight="0.50340134" side_tool="true" weight="0.30177993" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -543,13 +565,13 @@
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Problems" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
-      <window_info anchor="bottom" id="Messages" order="15" weight="0.32969034" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32846716" />
       <window_info anchor="bottom" id="CheckStyle" order="16" weight="0.32969034" />
-      <window_info anchor="bottom" id="Run Dashboard" order="17" weight="0.37704918" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="17" visible="true" weight="0.19890511" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32928804" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.28074434" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32928804" />
@@ -603,7 +625,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
-    <option name="LAST_COMMIT_MESSAGE" value="111" />
+    <MESSAGE value="222" />
+    <option name="LAST_COMMIT_MESSAGE" value="222" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -616,9 +639,9 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/controller/TestAopController.java</url>
-          <line>29</line>
+          <line>25</line>
           <properties />
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -897,16 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/service/impl/TestAopServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springbootaop/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -989,13 +1002,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-redis/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1027,10 +1033,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-redis/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/service/impl/TestAopServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springbootaop/src/main/java/com/atpanqi/springbootaop/controller/TestAopController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state relative-caret-position="123">
+          <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

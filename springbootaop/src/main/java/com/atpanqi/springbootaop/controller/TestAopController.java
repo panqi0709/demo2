@@ -22,6 +22,7 @@ public class TestAopController {
 
   @RequestMapping("getString")
   public String getString(String aa) {
+    System.out.println(aa+".................................");
     return service.getString(aa);
   }
 
