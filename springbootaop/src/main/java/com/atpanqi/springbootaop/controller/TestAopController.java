@@ -29,6 +29,7 @@ public class TestAopController {
   public String getPost(@RequestBody String aa) {
     System.out.println(aa+".................................");
     //测试git
+    //测试git
     return service.getString(aa);
   }
   @RequestMapping("all")
