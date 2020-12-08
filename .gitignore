@@ -10,6 +10,7 @@
 .springBeans
 .sts4-cache
 .class
+.gitignore
 
 ### IntelliJ IDEA ###
 .idea
@@ -24,6 +25,8 @@
 /nbdist/
 /.nb-gradle/
 /build/
+target/
+
 
 ### VS Code ###
 .vscode/

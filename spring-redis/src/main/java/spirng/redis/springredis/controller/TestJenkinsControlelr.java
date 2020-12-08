@@ -14,8 +14,8 @@ public class TestJenkinsControlelr {
 
   @RequestMapping("getString")
   public String getString(String aa) {
-    System.out.println("我去直接提交？dd");
-    return aa + "第一次提交";
+    System.out.println("我去直接提交？dd，为什么直接看不到提交记录了？");
+    return aa + "第二次提交123";
   }
 
 }
